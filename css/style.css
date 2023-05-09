@@ -1,0 +1,60 @@
+
+
+body {
+    background-image: url("../img/fondo2.jpeg");
+    color: white;
+    padding: 3%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #90EE90;
+}
+
+.column-1 {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+}
+
+.column-2 {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.column-3 {
+    width: 33.33%;
+    float: left;
+}
+
+.column-4 {
+    width: 33.33%;
+    float: left;
+}
+
+.column-5 {
+    width: 33.33%;
+    float: left;
+}
+
+img {
+    width: 20px;
+    color: white;
+}
+
+footer {
+    width: 100%;
+    text-align: left;
+    float: left;
+    font-size: 1.5vw;
+    color: white;
+    text-align: center;
+}
+
+.negro {
+    font-weight: bold;
+}
+

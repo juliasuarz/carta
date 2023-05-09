@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+
+    <plato plato1="Entrantes">
+      <title>Edamame</title>
+      <description>Vainas de soja verde al vapor con sal maldon</description>
+      <precio>5,50€</precio>
+      <calorias>200 calorias</calorias>
+    </plato>
+
+    <plato plato1="Entrantes">
+      <title>Edamame Picante</title>
+      <description>Vainas de soja al vapor con kimuchi no moto (salsa picante)</description>
+      <precio>6,50€</precio>
+      <calorias>300 calorias</calorias>
+    </plato>
+
+    <plato plato1="Entrantes">
+      <title>Misoshiru/Sopa Misu</title>
+      <description>Sopa hecha a base de pasta miso con ingredientes tofu, algas y ceblino</description>
+      <precio>6,90€</precio>
+      <calorias>400 calorias</calorias>
+      <caracteristicas> 
+      <item tema3="huevos"></item>
+      <item tema4="leche"></item>
+      </caracteristicas>
+    </plato>
+
+    <plato plato1="Entrantes">
+      <title>Ensalada Queen</title>
+      <description>Ensalada verde con algas variadas, aguacate, fomafe cherry, zanahoria y salsa de la casa</description>
+      <precio>10,90€</precio>
+      <calorias>800 calorias</calorias>
+      <caracteristicas> 
+      <item tema5="pez"></item>
+      <item tema1="cacahuetes"></item>
+      </caracteristicas>
+    </plato>
+
+    <plato plato1="Entrantes">
+      <title>Tempura Ebi (5un.)</title>
+      <description>Langostino rebozado al estilo japones, acompanado de salsa </description>
+      <precio>11,90€</precio>
+      <calorias>800 calorias</calorias>
+      <caracteristicas> 
+      <item tema5="pez"></item>
+      <item tema2="gluten"></item>
+      </caracteristicas>
+    </plato>
+
+    <plato plato1="Entrantes">
+      <title>Tempura Verdura</title>
+      <description>Verduras de femporada rebozadas al estilo japonés, acompañado de salsa tentsuyu y limon</description>
+      <precio>9,50€</precio>
+      <calorias>600 calorias</calorias>
+      <caracteristicas> 
+      <item tema2="gluten"></item>
+      </caracteristicas>
+    </plato>
+
+
+
+    <plato plato2="Caliente">
+      <title>Tataki De Entrecot</title>
+      <description>Con salsa yakiniku casera, acompañado de verduras</description>
+      <precio>15,50€</precio>
+      <calorias>700 calorias</calorias>
+      <caracteristicas> 
+      <item tema4="leche"></item>
+      </caracteristicas>
+    </plato>
+
+    <plato plato2="Caliente">
+      <title>Teriyaki </title>
+      <description>Salmón a la plancha con salsa teriyaki acompañado de verduras y tostada de pan </description>
+      <precio>14.95€</precio>
+      <calorias>900 calorias</calorias>
+      <caracteristicas> 
+      <item tema5="pez"></item>
+      <item tema2="gluten"></item>
+      </caracteristicas>
+    </plato>
+
+    <plato plato2="Caliente">
+      <title>Yakimessi </title>
+      <description>Bol de arroz con cerdo iberico laminado con salsa de la casa acompañado de huevo frito</description>
+      <precio>14.50€</precio>
+      <calorias>850 calorias</calorias>
+      <caracteristicas> 
+      <item tema3="huevos"></item>
+      <item tema2="gluten"></item>
+      </caracteristicas>
+    </plato>
+
+
+
+    <plato plato3="Uramaki">
+      <title>Nara Sake </title>
+      <description>Salmón, aguacate y philadelphia, sésamo negro</description>
+      <precio>11,90€</precio>
+      <calorias>850 calorias</calorias>
+      <caracteristicas> 
+      <item tema5="pez"></item>
+      </caracteristicas>
+    </plato>
+
+    <plato plato3="Uramaki">
+      <title>Nara Maguro </title>
+      <description>Atún, aguacate y philadelphia, sésamo negro</description>
+      <precio>11,90€</precio>
+      <calorias>850 calorias</calorias>
+      <caracteristicas> 
+      <item tema5="pez"></item>
+      <item tema4="leche"></item>
+      </caracteristicas>
+    </plato>
+
+    <plato plato3="Uramaki">
+      <title>California Kanikama</title>
+      <description>Philadelphia, aguacate, pepino, mayonesa japonesa, cangrejo, tobikko naranja y sésamo negro/blanco</description>
+      <precio>15,90€</precio>
+      <calorias>850 calorias</calorias>
+      <caracteristicas> 
+      <item tema5="star"></item>
+      </caracteristicas>
+    </plato>
+
+
+
+
+    <plato plato4="Bebidas">
+      <title>Nestea</title>
+      <precio>2,80€</precio>
+    </plato>
+    <plato plato4="Bebidas">
+      <title>Aquarius</title>
+      <precio>2,80€</precio>
+    </plato>
+    <plato plato4="Bebidas">
+      <title>Fanta Naranja/Limén</title>
+      <precio>2,80€</precio>
+    </plato>
+    <plato plato4="Bebidas">
+      <title>Coca-Cola Normal</title>
+      <precio>2,80€</precio>
+    </plato>
+    <plato plato4="Bebidas">
+      <title>Tonica</title>
+      <precio>2,90€</precio>
+    </plato>
+    <plato plato4="Bebidas">
+      <title>Zumo</title>
+      <precio>2,50€</precio>
+    </plato>
+    <plato plato4="Bebidas">
+      <title>Agua</title>
+      <precio>2,50€</precio>
+    </plato>
+
+
+
+    <plato plato5="Cafés">
+      <title>Café Con Leche</title>
+      <precio>2,20€</precio>
+    </plato>
+    <plato plato5="Cafés">
+      <title>Café Solo</title>
+      <precio>1,90€</precio>
+    </plato>
+    <plato plato5="Cafés">
+      <title>Café Expresso</title>
+      <precio>2,20€</precio>
+    </plato>
+    <plato plato5="Cafés">
+      <title>Cortado</title>
+      <precio>2€</precio>
+    </plato>
+    <plato plato5="Cafés">
+      <title>Americano</title>
+      <precio>2,10€</precio>
+    </plato>
+    <plato plato5="Cafés">
+      <title>Té Verde</title>
+      <precio>2,50€</precio>
+    </plato>
+    <plato plato5="Cafés">
+      <title>Infusiones</title>
+      <precio>2,50€</precio>
+    </plato>
+
+    
+
+
+
+
+       
+    
+</menu>
