@@ -22,7 +22,6 @@
       <calorias>400 calorias</calorias>
       <caracteristicas> 
       <item tema3="huevos"></item>
-      <item tema4="leche"></item>
       </caracteristicas>
     </plato>
 
@@ -33,7 +32,6 @@
       <calorias>800 calorias</calorias>
       <caracteristicas> 
       <item tema5="pez"></item>
-      <item tema1="cacahuetes"></item>
       </caracteristicas>
     </plato>
 
@@ -44,7 +42,6 @@
       <calorias>800 calorias</calorias>
       <caracteristicas> 
       <item tema5="pez"></item>
-      <item tema2="gluten"></item>
       </caracteristicas>
     </plato>
 
@@ -76,7 +73,6 @@
       <precio>14.95€</precio>
       <calorias>900 calorias</calorias>
       <caracteristicas> 
-      <item tema5="pez"></item>
       <item tema2="gluten"></item>
       </caracteristicas>
     </plato>
@@ -88,7 +84,6 @@
       <calorias>850 calorias</calorias>
       <caracteristicas> 
       <item tema3="huevos"></item>
-      <item tema2="gluten"></item>
       </caracteristicas>
     </plato>
 
@@ -110,7 +105,6 @@
       <precio>11,90€</precio>
       <calorias>850 calorias</calorias>
       <caracteristicas> 
-      <item tema5="pez"></item>
       <item tema4="leche"></item>
       </caracteristicas>
     </plato>

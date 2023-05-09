@@ -6,6 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/style.css">
     <title>Sushi</title>   
+    <style>
+        @media (max-width: 600px) {
+    .container {
+      display: block; 
+    }
+    
+    .column-3{
+        width: 100%; 
+      }
+    .column-4{
+        width: 100%; 
+      }
+    .column-5 {
+      width: 100%; 
+    }
+  }
+    </style>
 </head>
 
 <body>
